@@ -841,4 +841,3 @@ class ipv_data_source:
 			if self.debug_info:
 				print("[exit]...<OK>")
 			self.is_active=False
-return -1
